@@ -1,4 +1,4 @@
-const CACHE_NAME = 'registro-fallas-v5';
+const CACHE_NAME = 'registro-fallas-v12';
 const ASSETS = [
   './index.html',
   './manifest.json',
