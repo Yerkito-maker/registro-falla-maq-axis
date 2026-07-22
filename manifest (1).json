@@ -1,0 +1,15 @@
+{
+  "name": "Datrack",
+  "short_name": "Datrack",
+  "description": "Registro de fallas, servicios técnicos y repuestos de equipos de manipulación",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F5FA",
+  "theme_color": "#1B3E82",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
